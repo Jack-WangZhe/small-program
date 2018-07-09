@@ -1,0 +1,8 @@
+<!-- 
+    wxml和网页的html功能类似，负责整个页面的机构
+    但是它的标签和HTML不太一样
+ -->
+<!-- view相当于div -->
+ <view>视图标签</view>
+ <!-- text相当于span -->
+ <text>文本标签</text>

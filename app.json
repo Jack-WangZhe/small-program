@@ -1,0 +1,24 @@
+{
+    "pages": [
+        "pages/hello/hello",
+        "pages/index/index"
+    ],
+    "window": {
+      "navigationBarBackgroundColor": "#000",
+      "navigationBarTextStyle": "white",
+      "navigationBarTitleText": "听说 在线学习平台",
+      "backgroundColor": "#eeeeee",
+      "backgroundTextStyle": "light",
+      "enablePullDownRefresh": false
+    },
+    "tabBar": {
+      "list": [{
+        "pagePath": "pages/index/index",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/hello/hello",
+        "text": "你好"
+      }]
+    }
+}
